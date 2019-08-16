@@ -1,0 +1,12 @@
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\bin\x64\Debug\Bitmap.exe.config
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\bin\x64\Debug\Bitmap.exe
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\bin\x64\Debug\Bitmap.pdb
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\bin\x64\Debug\Bitmap.xml
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\x64\Debug\Bitmap.vbprojAssemblyReference.cache
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\x64\Debug\Bitmap.Principal.resources
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\x64\Debug\Bitmap.Resources.resources
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\x64\Debug\Bitmap.vbproj.GenerateResource.cache
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\x64\Debug\Bitmap.vbproj.CoreCompileInputs.cache
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\x64\Debug\Bitmap.exe
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\x64\Debug\Bitmap.xml
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\x64\Debug\Bitmap.pdb

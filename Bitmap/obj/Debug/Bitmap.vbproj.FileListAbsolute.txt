@@ -1,0 +1,54 @@
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\bin\Debug\Bitmap.exe
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\bin\Debug\Bitmap.pdb
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\bin\Debug\Bitmap.xml
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\obj\Debug\Bitmap.Form1.resources
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\obj\Debug\Bitmap.Resources.resources
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\obj\Debug\Bitmap.vbproj.GenerateResource.Cache
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\obj\Debug\Bitmap.xml
+C:\Users\octavio.queiroz\AppData\Local\Temporary Projects\Bitmap\obj\Debug\Bitmap.pdb
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\obj\Debug\Bitmap.xml
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\obj\Debug\Bitmap.pdb
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\bin\Debug\Bitmap.exe
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\bin\Debug\Bitmap.pdb
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\bin\Debug\Bitmap.xml
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\obj\Debug\Bitmap.Resources.resources
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\obj\Debug\Bitmap.vbproj.GenerateResource.Cache
+C:\Users\octavio.queiroz\Documents\Visual Studio 2012\Projects\Bitmap\Bitmap\obj\Debug\Bitmap.Principal.resources
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\bin\Debug\Bitmap.exe.config
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\bin\Debug\Bitmap.exe
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\bin\Debug\Bitmap.pdb
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\bin\Debug\Bitmap.xml
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\obj\Debug\Bitmap.vbprojAssemblyReference.cache
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\obj\Debug\Bitmap.Principal.resources
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\obj\Debug\Bitmap.Resources.resources
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\obj\Debug\Bitmap.vbproj.GenerateResource.cache
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\obj\Debug\Bitmap.vbproj.CoreCompileInputs.cache
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\obj\Debug\Bitmap.xml
+C:\Users\octaq\OneDrive\Área de Trabalho\vb\Bitmap\Bitmap\obj\Debug\Bitmap.pdb
+C:\Users\octaq\source\repos\Bitmap\Bitmap\bin\Debug\Bitmap.exe.config
+C:\Users\octaq\source\repos\Bitmap\Bitmap\bin\Debug\Bitmap.exe
+C:\Users\octaq\source\repos\Bitmap\Bitmap\bin\Debug\Bitmap.pdb
+C:\Users\octaq\source\repos\Bitmap\Bitmap\bin\Debug\Bitmap.xml
+C:\Users\octaq\source\repos\Bitmap\Bitmap\obj\Debug\Bitmap.vbprojAssemblyReference.cache
+C:\Users\octaq\source\repos\Bitmap\Bitmap\obj\Debug\Bitmap.Principal.resources
+C:\Users\octaq\source\repos\Bitmap\Bitmap\obj\Debug\Bitmap.Resources.resources
+C:\Users\octaq\source\repos\Bitmap\Bitmap\obj\Debug\Bitmap.vbproj.GenerateResource.cache
+C:\Users\octaq\source\repos\Bitmap\Bitmap\obj\Debug\Bitmap.vbproj.CoreCompileInputs.cache
+C:\Users\octaq\source\repos\Bitmap\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\octaq\source\repos\Bitmap\Bitmap\obj\Debug\Bitmap.xml
+C:\Users\octaq\source\repos\Bitmap\Bitmap\obj\Debug\Bitmap.pdb
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\bin\Debug\Bitmap.exe.config
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\bin\Debug\Bitmap.exe
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\bin\Debug\Bitmap.pdb
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\bin\Debug\Bitmap.xml
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\Debug\Bitmap.vbprojAssemblyReference.cache
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\Debug\Bitmap.Principal.resources
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\Debug\Bitmap.Resources.resources
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\Debug\Bitmap.vbproj.GenerateResource.cache
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\Debug\Bitmap.vbproj.CoreCompileInputs.cache
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\Debug\Bitmap.xml
+C:\Users\octaq\Dropbox\VisualStudio\Bitmap\Bitmap\obj\Debug\Bitmap.pdb
